@@ -14,7 +14,7 @@ async def on_ready():
     print("logged in to " + str(bot.user))
 
 extensions = [
-	'cogs.cog_example'
+	'cogs.debug'
 ]
 
 if __name__ == '__main__': 
