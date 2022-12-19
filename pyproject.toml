@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "discordpy-bot-template-with-commands-extension"
+name = "slope"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+description = "discord bot"
+authors = ["icesvk <icesvk15@gmail.com"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
